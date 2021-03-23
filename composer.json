@@ -1,0 +1,8 @@
+{
+  "name": "yevgeniy/geointerface",
+  "autoload": {
+    "psr-4": {
+      "Hillel\\GeoInterface\\": "./src"
+    }
+  }
+}
